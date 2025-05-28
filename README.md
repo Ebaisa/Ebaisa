@@ -16,6 +16,7 @@ I'm a **Full Stack Developer** and **Cybersecurity Engineer** with a passion for
 ### 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ebaisa&layout=compact&theme=default)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Ebaisa&theme=default)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ebaisa)](https://git.io/streak-stats)
 
 ### 📫 Connect With Me
 - [Email](mailto:ebisabette@gmail.com)
