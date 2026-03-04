@@ -15,6 +15,7 @@ I'm a **Full Stack Developer** and **Cybersecurity Engineer** with a passion for
 
 ### 📫 Connect With Me
 - [Email](mailto:ebisabette@gmail.com)
+- [Linkedin](www.linkedin.com/in/ebisa-bette-524276377)
 
 ---
 
